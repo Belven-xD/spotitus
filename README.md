@@ -26,7 +26,7 @@ The data is not shared to anyone and only the developer has access to it.
 
 __Data Removal__
 
-This data is not removal able.
+To remove this data, please contact us through our [support server](https://discord.gg/n7dWpkMJy3).
 
 __Contact__
 
