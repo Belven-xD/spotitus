@@ -18,11 +18,19 @@ __Commands__
 ## Privacy Policy
 __Data Collection__
 
-We do not collect data at all, as the bot doesn't need to. We collect value such as user ID to identify who's using the bot.
+We collect only your user ID, and the provided target's user ID. We need the following data to identify who's using the bot. The data will be sent to a private Discord text channel.
 
-__Data Storage__
+__Data Sharing__
 
-Your user ID is not stored in our database.
+The data is not shared to anyone and only the developer has access to it.
+
+__Data Removal__
+
+This data is not removal able.
+
+__Contact__
+
+Any concerns regarding this privacy policy, please contact us through our [support server](https://discord.gg/n7dWpkMJy3).
 
 ## Terms of Service
 __Usage__
